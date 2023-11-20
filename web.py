@@ -7,8 +7,8 @@ def add_todo():
 
 todos = functions.get_todos()
 
-st.title("My Todo app")
-st.subheader("This is my todo app")
+st.title("Simple Todo app")
+
 st.write("This app is to improve your productivity")
 
 
